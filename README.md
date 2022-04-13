@@ -1,3 +1,8 @@
+# Important NOTE
+
+This project was forked from the https://github.com/ZhangMYihua/crwn-clothing-v2/tree/lesson-34 repository.
+I started writing my own code starting from the following commit: https://github.com/ZhangMYihua/crwn-clothing-v2/commit/7994c80019bdb45fad911d6835431e937c3c7781
+
 # How to fork and clone
 
 One quick note about cloning this project. If you wish to make commits and push your own code, you'll need to fork the project first. Forking allows you to have your own copy of this repository by adding a duplicate version in your own profile!

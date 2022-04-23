@@ -15,7 +15,7 @@ const Shop = () => {
   useEffect(() => {
     // dispatch(fetchCategoriesAsync());
     dispatch(fetchCategoriesStart());
-  }, []);
+  }, [dispatch]);
 
   return (
     <Routes>
